@@ -3,11 +3,15 @@
 This project is a part of Udacity Data scientist nano degree program , in this project i used the results from stackoverflow public survey 2017 to get some insights about what to excpect in terms of Salary as a new developer , i used Jupyter notebook and some python libraries mentioned below to reach an answer for some questions that some new developers might want to know such as "relation between Salary and Education" , "Salary and Years of experience relation" and relation between "Salary and number of programming languages", as shown in the blog post the relation isn't always strait forward relation such as the case in the relation between number of programming languages and Salary
 ## Requirements
 pandas, matplotlib, jupyter-notebook (if running locally)
-Files in the repo
+## Files in the repo
 •	Application.ipynb - Analysis code
+
 •	survey_results_public.csv - Developers Survey Result Data
+
 •	survey_results_schema.csv reviews.csv - Developers Survey Result Schema
+
 •	(Objective - 1,2,4).PNG - pictures used to share results from survey
+
 ## License
 MIT License
 Copyright (c) 2021 Mohamed-Elbohy1
